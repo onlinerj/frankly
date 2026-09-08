@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Discussion & questions - Calendar & Community
+BEGIN:VEVENT
+DTSTART:20261001T140000Z
+DTEND:20261001T150000Z
+DTSTAMP:20260908T063047Z
+SUMMARY:Discussion & questions - Calendar & Community
+DESCRIPTION:https://localhost:5000/space/community/discuss/template/event
+ORGANIZER;CN=undefined:MAILTO:undefined
+UID:60682
+END:VEVENT
+END:VCALENDAR
