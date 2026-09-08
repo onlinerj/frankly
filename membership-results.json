@@ -1,0 +1,14 @@
+[
+  {
+    "email": "before479verified@example.test",
+    "accountCreated": true,
+    "membershipExists": false,
+    "status": null
+  },
+  {
+    "email": "after479final@example.test",
+    "accountCreated": true,
+    "membershipExists": true,
+    "status": "member"
+  }
+]
